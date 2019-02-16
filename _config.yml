@@ -1,3 +1,12 @@
-theme: jekyll-theme-midnight
+# Site settings
 title: Gabriel Reis
-description: Exploring the new, discovering the old
+email: gabr.rreis@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "gabriel-rreis.github.io" # the base hostname & protocol for your site
+
+twitter_username: vaguelyRobotic
+github_username: gabriel-rreis
+
+# Build settings
+markdown: kramdown
