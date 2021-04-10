@@ -12,7 +12,6 @@ Copyright ©2020 All rights reserved
 rm -r public/assets/
 cp -r assets/ public/assets
 cp index.html public/
-cp portifolio-details.html public/
 
 firebase deploy
 ```
